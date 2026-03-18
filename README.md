@@ -1,3 +1,4 @@
+## SHARUN N (212223060257)
 # Experimental-verification-of-frequency-response-of-Digital-fiber-optic-link
 
 # Fiber Optic Digital Link Experiment (660nm & 950nm)
@@ -72,15 +73,11 @@ Fiber optic links can be used for transmission of both digital and analog signal
 
 ## TABULATION
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain (dB) |
-|----------------|-------------------------------|--------------|-----------|
-|                |                               |              |           |
-|                |                               |              |           |
-
----
+<img width="720" height="595" alt="image" src="https://github.com/user-attachments/assets/b54e437e-4fc5-4047-8765-0c836f7d9790" />
 
 ## MODEL GRAPH
-*(Attach plotted graph of Gain vs Frequency here)*
+<img width="1294" height="1600" alt="image" src="https://github.com/user-attachments/assets/2daa0621-886d-4c30-8e45-7f96f6fd9d5d" />
+
 
 ---
 
